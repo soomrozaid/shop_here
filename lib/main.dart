@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
     }
 
     Position position = await Geolocator.getCurrentPosition();
-    LocationAccuracyStatus location = await Geolocator.getLocationAccuracy();
+    // LocationAccuracyStatus location = await Geolocator.getLocationAccuracy();
 
     setState(() => positionInfo = position.toString());
     // if (permission == LocationPermission.denied) {
