@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754719821289",
+    "project_id": "shop-here-918db",
+    "storage_bucket": "shop-here-918db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754719821289:android:73cbef91548582323b4f78",
+        "android_client_info": {
+          "package_name": "com.SoomBros.shop_here"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrNYVE3kyaKkq4081Hf2wOaSXZ7Bya7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
